@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/025/289/458/large/mike-sovin-4.jpg?1585308761");
+}
+
+.unit{
+    background-color: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(27,180,212,1) 100%);
+}
+.effect{
+    background-color: rgb(36,0,0);
+background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(212,27,27,1) 100%);
+
+}
+#btn-actualizar{
+    position:fixed
+}
+img{
+    height: 300px;
+    width: auto;
+}
+.card{
+    vertical-align: top;
+    position: absolute;
+}
